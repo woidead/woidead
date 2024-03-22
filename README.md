@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+  <tr>
+     <p align="center">
+
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woidead" alt="woidead" /></a> </p>       
+    </p>
+  </tr>
+</table>
+<table> 
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=woidead&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woidead&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+   </tr>
+</table>
 <table>
   <tr>
     <p align="center">
