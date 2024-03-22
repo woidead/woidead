@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table>
+  <tr>
+    <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=woidead&theme=radical" alt="woidead">
+      </p>
+  </tr>
+</table>
