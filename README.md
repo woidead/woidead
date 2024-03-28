@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <table> 
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woidead&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=woidead&theme=radical" alt="woidead">
-      </p>
+    
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=woidead&theme=radical" alt="woidead"><td>
+      
    </tr>
 </table>
 
