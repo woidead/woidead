@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <table> 
   <tr>
    
-  <td align="center" >
-    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woidead&theme=radical&layout=compact&hide=Jupyter%20Notebook" height=165  display=block  alt="2">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woidead&theme=radical" height=165  alt="woidead"></td>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woidead&theme=radical&layout=compact&hide=Jupyter%20Notebook" height=165  display=block  alt="2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=woidead&theme=radical" height=165  alt="woidead"></td>
      
   </p>
-   </tr>
+  
 </table>
