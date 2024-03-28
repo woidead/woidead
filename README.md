@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <table> 
   <tr>
    
-  <td align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woidead&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block  alt="2">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woidead&theme=radical" alt="woidead"></td>
+  <td align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woidead&theme=radical&layout=compact&hide=Jupyter%20Notebook" height="165px"  display=block  alt="2">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woidead&theme=radical"  alt="woidead"></td>
      
    </tr>
 </table>
