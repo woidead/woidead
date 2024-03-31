@@ -1,12 +1,10 @@
 ### Hi there 👋
-<p align="center">IM Aziz Umarov</p>
+<p align="start">IM Aziz Umarov</p>
 
 <table>
   <tr>
-     <p align="center">
-
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woidead&theme=algolia" alt="woidead" /></a> </p>       
-    </p>
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woidead&theme=algolia" alt="woidead" /></a> </p>     
+   
   </tr>
 </table>
 <table> 
