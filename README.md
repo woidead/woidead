@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="start">IM Aziz Umarov</p>
-
+![](https://komarev.com/ghpvc/?username=woidead&color=blue&style=flat)
 <table>
   <tr>
     <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woidead&theme=algolia" alt="woidead" /></a> </p>     
