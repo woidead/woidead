@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="start">IM Aziz Umarov</p>
 
-![](https://komarev.com/ghpvc/?username=woidead&base=1000)
+![](https://komarev.com/ghpvc/?username=woidead)
 
 <table>
   <tr>
