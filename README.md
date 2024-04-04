@@ -9,7 +9,7 @@
    
   </tr>
 </table>
-<table> 
+<table style="display:flex; align-items:center;"> 
   <tr>
    
   
